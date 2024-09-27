@@ -7,7 +7,7 @@ The readme for your rProject should include a top level description of the proje
 | ------------------------ | --------------------------------- |
 | **0_data/**              | Raw and manipulated data          |
 | ├── external/            | Raw data from external sources    |
-| ├── manual/              | Data that has been manipulated    |
+| ├── processed/           | Data that has been manipulated    |
 | **1_code/**              | Code and scripts for analysis     |
 | ├── GEE/                 | Google Earth Engine scripts       |
 | │   └── gee_git_clone.sh | Script to clone GEE repository    |
@@ -24,4 +24,7 @@ The readme for your rProject should include a top level description of the proje
 | **4_writing/**           | Manuscript and reports            |
 | ├── manuscript/          | Drafts of the manuscript          |
 | └── reports/             | Reports and additional documents  |
+| **5_presentations/**     | Presentation materials            |
+| ├── slides/              | Presentation slides (e.g., .pptx) |
+| └── posters/             | Conference posters                |
 | **README.md**            | Project overview and instructions |
