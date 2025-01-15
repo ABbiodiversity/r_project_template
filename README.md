@@ -152,6 +152,16 @@ The **“front door”** to your project—an overview and instructions for repl
 - **6_bookdown**: Bookdown documentation for project vignettes, user guides, or tutorials.
 - **README.md**: The roadmap for anyone navigating or replicating the project.
 
+---
+## Use this Template to Create a New Repository
+
+1. Navigate to the **main page** of the template repository in your browser.
+2. Look for the **“Use this template”** button (usually located on the top right side of top GitHub UI bar. 
+3. Click **“Use this template”** to open a drop-down menu. Click **"Create a new repository"** and follow the instructions.
+
+Below is a screenshot showing where to click **“Use this template”** on GitHub:
+
+![Screenshot of the "Use this template" button on GitHub](create_repository_from_template.png)
 
 ---
 
