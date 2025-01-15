@@ -153,4 +153,11 @@ The **“front door”** to your project—an overview and instructions for repl
 - **README.md**: The roadmap for anyone navigating or replicating the project.
 
 
+---
+
+[^1]: Data and pipeline files are generally added to `.gitignore` to prevent them from being pushed to GitHub.
+
+
+
+
 
