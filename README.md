@@ -18,7 +18,7 @@
 > The purpose of these guidelines is to promote consistency and reproducibility across Science Centre projects, making collaboration and review easier. That said, every project is unique. If you adjust the
 > structure, please note the changes and your reasoning so they’re clear to others.
 
-Here is an R Project template for storing your project's data, code, and output files within a well-structured directory. While this template is designed for R projects, projects in other programming environments should maintain a similar directory structure. For more information on structuring project directories and best practices for writing reproducible code, see [https://github.com/bgcasey/code_standards](https://github.com/bgcasey/code_standards).
+Here is an R Project template for storing your project's data, code, and output files within a well-structured directory. While this template is designed for R projects, projects in other programming environments should maintain a similar directory structure. For more information on structuring project directories and best practices for writing reproducible code, see [https://github.com/bgcasey/code_standards](https://github.com/ABbiodiversity/code_standards).
 
 ---
 
